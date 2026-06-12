@@ -46,7 +46,7 @@ This project uses only the Python standard library and does not require external
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/cli-calculator.git
+git clone https://github.com/Abdolghader-Shokri/python-cli-calculator.git
 ```
 
 2. Navigate to the project directory
